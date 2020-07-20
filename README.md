@@ -39,9 +39,35 @@
 #### Novel method for selecting the best drug therapy for cancer 
 
 
+### Cybersecurity: CY_1 - CY_6
+
+#### 1. CY_1: https://thehackernews.com/2020/07/brazilian-banking-trojan.html
+#### 4 Dangerous Brazilian Banking Trojans Now Trying to Rob Users Worldwide 
+#### 2. CY_3: https://www.scmagazine.com/home/security-news/apts-cyberespionage/covid-19-vaccines-economies-in-peril-after-russian-apt29-attacks/ 
+#### Covid-19 vaccines, economies in peril after Russian APT29 attacks
+#### 3. CY_4: https://thehackernews.com/2020/07/android-password-hacker.html 
+#### New Android Malware Now Steals Passwords For Non-Banking Apps Too 
+#### 4. CY_5: https://threatpost.com/the-great-twitter-hack-what-we-know-what-we-dont/157538/ 
+#### Twitter Hack Update: What We Know (and What We Don’t) 
+#### 5. CY_6: https://thehackernews.com/2020/07/cybersecurity-for-businesses.html 
+#### Why Application Security Should Be Considered An Enabler For Business
 
 
 
-# Cybersecurity: CY_1 - CY_6
-# Data Science: DS_1 - DS_5
-# Hyperformance Computing: HPC_1 - HPC_6
+### Data Science: DS_1 - DS_5
+
+#### 1. DS_1: https://tdwi.org/articles/2020/07/09/bi-all-3-ways-to-think-about-data-post-covid-19.aspx 
+#### 3 Ways to Think About Data Post-COVID-19
+#### 2. DS_2: https://www.technologynetworks.com/tn/news/data-science-and-the-wave-how-can-we-study-emergent-behavior-337546 
+#### Data Science and the "Wave": How Can We Study Emergent Behavior?
+#### 3. DS_3: https://sloanreview.mit.edu/article/data-science-quarantined/ 
+#### Data Science, Quarantined
+#### 4. DS_4: https://dataconomy.com/2020/07/how-to-form-a-close-knit-data-science-team-in-weeks/ 
+#### HOW TO FORM A CLOSE-KNIT DATA SCIENCE TEAM IN WEEKS
+#### 5. DS_5: https://www.infoworld.com/article/3241107/julia-vs-python-which-is-best-for-data-science.html 
+#### Julia vs. Python: Which is best for data science?
+
+
+### Hyperformance Computing: HPC_1 - HPC_6
+
+####
