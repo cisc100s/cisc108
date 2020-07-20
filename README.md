@@ -1,10 +1,10 @@
 # **TOPICS**
 ### Artificial Intelligence: AI_1 - AI_11
 
-#### AI_1: https://techxplore.com/news/2020-07-brain-inspired-architecture-human-gesture-recognition.html 
+#### 1. AI_1: https://techxplore.com/news/2020-07-brain-inspired-architecture-human-gesture-recognition.html 
 #### A brain-inspired architecture for human gesture recognition!
-#### AI_2: http://news.mit.edu/2020/data-driven-response-pandemic-0515 
-#### A data-driven response to a pandemic 
+#### 2. AI_2: http://news.mit.edu/2020/data-driven-response-pandemic-0515 
+#### 3. A data-driven response to a pandemic 
 #### AI_3: https://www.nytimes.com/2020/06/09/technology/china-ai-research-education.html 
 #### A U.S. Secret Weapon in A.I.: Chinese Talent 
 #### AI_4: https://techxplore.com/news/2020-07-algorithm-merges-online-offline.html
