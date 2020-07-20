@@ -70,4 +70,16 @@
 
 ### Hyperformance Computing: HPC_1 - HPC_6
 
-####
+#### 1. HPC_1: https://insidehpc.com/2020/07/argonne-claims-largest-engine-flow-simulation-using-theta-supercomputer/
+#### Argonne Claims Largest Engine Flow Simulation Using Theta Supercomputer
+#### 2. HPC_2: https://cacm.acm.org/news/244530-commercial-quantum-computing-made-possible/fulltext
+#### Commercial Quantum Computing Made Possible
+#### 3. HPC_3: https://www.hpcwire.com/2020/07/15/get-a-grip-intel-neuromorphic-chip-used-to-give-robotics-arm-a-sense-of-touch/
+#### Get a Grip: Intel Neuromorphic Chip Used to Give Robotics Arm a Sense of Touch
+#### 4. HPC_4: https://searchdatacenter.techtarget.com/news/252484947/Honeywell-touts-quantum-computer-speed-but-how-fast-is-fast
+#### Honeywell touts quantum computer speed, but how fast is fast?
+#### 5. HPC_5: https://insidehpc.com/2020/07/infiniband-powers-worlds-leading-weather-forecasters-supercomputers/
+#### InfiniBand Powers World’s Leading Weather Forecasters’ Supercomputers
+#### 6. HPC_6: https://www.hpcwire.com/2020/07/14/whats-new-in-hpc-research-volcanoes-mobile-games-protein
+#### What’s New in HPC Research: Volcanoes, Mobile Games, Proteins & More 
+
